@@ -123,6 +123,16 @@ export const trainers: Trainer[] = [
 ];
 
 export const events: EventItem[] = [
+    {
+    title: "Ujian Kenaikan Dan",
+    date: "20 Mei 2026",
+    location: "SMPN 1 PENAWARTAMA",
+    category: "Latihan",
+    image:
+      "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=80",
+    description:
+      "Sesi latihan terpadu untuk menyamakan standar teknik dan memperkuat kekompakan antar-dojo."
+  },
   {
     title: "Latihan Gabungan Cabang",
     date: "18 Mei 2026",
