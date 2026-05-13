@@ -247,7 +247,7 @@ export const organizationTimeline = [
   },
   {
     year: "2018",
-    title: "Penguatan Cabang",
+    title: "Penguatan dan Pengembangan Cabang",
     description:
       "Struktur cabang diperkuat untuk menyatukan program latihan, ujian, dan agenda kejuaraan."
   },
