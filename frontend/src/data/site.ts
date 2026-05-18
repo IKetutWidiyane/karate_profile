@@ -237,7 +237,7 @@ export const organizationTimeline = [
     year: "1966",
     title: "BKC Berdiri",
     description:
-      "Bandung Karate Club tumbuh sebagai wadah pembinaan karate yang menekankan karakter, keberanian, dan prestasi."
+      "Bandung Karate Club tumbuh sebagai wadah pembinaan karateka yang menekankan karakter, keberanian, dan prestasi."
   },
   {
     year: "2012",
